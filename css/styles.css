@@ -1,16 +1,14 @@
+.column {
+  width: 30%;
+  float: left;
+}
+
 .sidebar {
-  width: 25%;
+  width: 30%;
   float: right;
   background-color: grey;
   border-style: groove;
   border-width: thin
-}
-
-.column {
-  width: 30%;
-  float: right;
-  column-gap: 3em;
-
 }
 
 img {
