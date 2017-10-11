@@ -1,0 +1,19 @@
+.sidebar {
+  width: 25%;
+  float: right;
+  background-color: grey;
+  border-style: groove;
+  border-width: thin
+}
+
+.column {
+  width: 30%;
+  float: right;
+  column-gap: 3em;
+
+}
+
+img {
+  float: left;
+  width: 100px;
+}
