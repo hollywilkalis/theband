@@ -1,6 +1,6 @@
 .column {
   width: 30%;
-  float: left;
+  float: left
 }
 
 .sidebar {
@@ -8,10 +8,21 @@
   float: right;
   background-color: grey;
   border-style: groove;
-  border-width: thin
+  border-width: thick;
+  border-color: red;
+  padding-left: 50px;
 }
 
 img {
   float: left;
   width: 100px;
+  padding: 20px 20px 20px 80px;
+}
+
+h1  {
+  background-color: black;
+  border-style: dotted;
+  border-width: medium;
+  color: white;
+  padding-left: 10px;
 }
